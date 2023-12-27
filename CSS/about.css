@@ -1,0 +1,52 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+
+}
+
+.input{
+    width: 400px;
+    border-radius: 50px;
+    border: 3px solid rgb(255, 0, 200);
+    height: 40px;
+    padding: 20px;
+    margin: 10PX;
+    background-color: rgb(233, 201, 243);
+    scrollbar-shadow-color: black;
+
+
+}
+
+.massage{
+    width: 400px;
+    border-radius: 35px;
+    border: 3px solid rgb(255, 0, 200);
+    height: 100px;
+    padding: 20px;
+    margin: 10PX;
+    margin-bottom: 20px;
+    background-color: rgb(233, 201, 243);
+
+
+}
+
+.btn{
+
+    background-color: rgb(139, 3, 133);
+    width: 200px;
+    height: 40px;
+    color: bisque;
+    border: 3px solid rgb(255, 0, 200);
+    border-radius: 200px;
+    margin: 10;
+    
+}
+
+.inputtext{
+    color: brown;
+}
+
+.CENTER{
+    margin-bottom: 100PX;
+}
